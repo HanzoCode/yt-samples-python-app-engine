@@ -1,0 +1,9 @@
+[submodule "retrieve-user-uploads"]
+	path = retrieve-user-uploads
+	url = https://github.com/youtube/yt-samples-python-app-engine-retrieve-user-uploads.git
+[submodule "search-by-topic"]
+	path = search-by-topic
+	url = https://github.com/youtube/yt-samples-python-app-engine-search-by-topic.git
+[submodule "search-by-keyword"]
+	path = search-by-keyword
+	url = https://github.com/youtube/yt-samples-python-app-engine-search-by-keyword.git
